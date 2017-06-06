@@ -1,8 +1,8 @@
 # Games preferidos da equipe
 
-## Membro 1
+## Lucelly
 
-* Game A
-* Game B
-* Game C
-* Game D
+* Alien Isolation
+* Assassin's Creed
+* Skyrim
+* Star wars: The Force Unleashed
