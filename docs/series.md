@@ -1,8 +1,8 @@
 # Séries preferidas da equipe
 
-## Membro 1
+## lucellybsantos
 
-* Série A
-* Série B
-* Série C
-* Série D
+* Doctor who
+* The vampire diaries
+* The originals
+* Arrow
