@@ -1,5 +1,12 @@
 # Filmes preferidos da equipe
 
+## Filmes preferidos de will
+
+* Star Wars
+* Logan
+* Procurando nemo
+* Senhor dos anéis
+
 ## Filmes preferidos de lucellybsantos
 
 * Star Wars
